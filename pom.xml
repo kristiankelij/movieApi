@@ -44,6 +44,11 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>me.paulschwarz</groupId>
+			<artifactId>spring-dotenv</artifactId>
+			<scope>2.5.4</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
